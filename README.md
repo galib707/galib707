@@ -12,4 +12,8 @@
 12. [Demo page for bbs](https://demo-for-bbs.vercel.app/)
 13. [click game](https://magnificent-strudel-8ae748.netlify.app/)
 14. [markdown](https://day-22-markdown-editor-galib707-m9czx0862-mclarencll.vercel.app/)
+15. [thullo](https://thullo-frontend-six.vercel.app/auth)
+16. [memory game](https://day-24-project-friday-memory-game-galib707.vercel.app/)
+17. [rock-paper-scissors](https://day-35-morning-challenge-galib707.vercel.app/)
+18. [crypto](https://crypto-trade-app.netlify.app/)
     
